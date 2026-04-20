@@ -43,7 +43,7 @@ El código base entregado incluye adaptadores listos para los tres proveedores p
 
 ---
 
-## Fase 1: Diseño pedagógico
+## Fase 1: Diseño pedagógico (22 de Abril)
 **Duración: 2 horas**
 
 ### Objetivo
@@ -74,7 +74,7 @@ El equipo llena el siguiente formulario y lo entrega antes de avanzar a la Fase 
 | ¿Qué hará si la pregunta está fuera del temario? | |
 | Personalidad en una oración | |
 
-### Entregable Fase 1: Ficha de diseño del bot
+### Entregable Fase 1: Ficha de diseño del bot (22 de Abril)
 
 - Ficha completa con todos los campos llenados
 - Proveedor de IA seleccionado y justificado brevemente
@@ -91,7 +91,7 @@ El equipo llena el siguiente formulario y lo entrega antes de avanzar a la Fase 
 
 ---
 
-## Fase 2: Ingeniería de prompts
+## Fase 2: Ingeniería de prompts (24 de abril)
 **Duración: 3 horas**
 
 ### Objetivo
@@ -122,7 +122,7 @@ Los equipos prueban su prompt directamente en el chat del proveedor elegido (Cla
 
 Se requieren al menos 5 pruebas documentadas antes de considerar el prompt como versión 1.0.
 
-### Entregable Fase 2: System prompt documentado
+### Entregable Fase 2: System prompt documentado (24 de abril)
 
 - Archivo `.txt` o `.md` con el system prompt final (versión 1.0)
 - Tabla de iteraciones con al menos 5 pruebas: pregunta / respuesta / problema / corrección
@@ -139,7 +139,7 @@ Se requieren al menos 5 pruebas documentadas antes de considerar el prompt como 
 
 ---
 
-## Fase 3: Construcción de la interfaz
+## Fase 3: Construcción de la interfaz (27 Abril)
 **Duración: 4 – 5 horas**
 
 ### Objetivo
@@ -177,7 +177,7 @@ Solo es necesario editar el bloque de configuración al inicio del script. Las v
 - Agregar botones de "No entendí" y "Dame otro ejemplo" conectados a prompts predefinidos
 - Comparar el comportamiento del mismo system prompt en dos proveedores distintos
 
-### Entregable Fase 3: Aplicación web funcional
+### Entregable Fase 3: Aplicación web funcional (27 Abril)
 
 - Archivo `chatbot-educativo-base.html` modificado con el nombre, materia y system prompt del equipo
 - La aplicación responde correctamente a preguntas del temario usando el proveedor elegido
@@ -195,7 +195,7 @@ Solo es necesario editar el bloque de configuración al inicio del script. Las v
 
 ---
 
-## Fase 4: Pruebas y mejora iterativa
+## Fase 4: Pruebas y mejora iterativa (29 Abril)
 **Duración: 2 – 3 horas**
 
 ### Objetivo
@@ -225,7 +225,7 @@ Esta fase enseña que la ingeniería de IA no termina cuando el código funciona
 | 9 | | | | |
 | 10 | | | | |
 
-### Entregable Fase 4: Hoja de registro de pruebas
+### Entregable Fase 4: Hoja de registro de pruebas (29 Abril)
 
 - Tabla con al menos 10 pruebas documentadas (incluyendo al menos una de cada tipo)
 - Al menos 3 filas con correcciones aplicadas al system prompt
@@ -243,7 +243,7 @@ Esta fase enseña que la ingeniería de IA no termina cuando el código funciona
 
 ---
 
-## Fase 5: Demo y presentación final
+## Fase 5: Demo y presentación final (Lunes 4 y Miércoles 6 de Mayo)
 **Duración: 1 – 2 horas**
 
 ### Objetivo
