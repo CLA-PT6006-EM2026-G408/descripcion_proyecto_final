@@ -139,7 +139,7 @@ Se requieren al menos 5 pruebas documentadas antes de considerar el prompt como 
 
 ---
 
-## Fase 3: Construcción de la interfaz (27 Abril)
+## Fase 3: Construcción de la interfaz (28 Abril)
 **Duración: 4 – 5 horas**
 
 ### Objetivo
@@ -177,7 +177,7 @@ Solo es necesario editar el bloque de configuración al inicio del script. Las v
 - Agregar botones de "No entendí" y "Dame otro ejemplo" conectados a prompts predefinidos
 - Comparar el comportamiento del mismo system prompt en dos proveedores distintos
 
-### Entregable Fase 3: Aplicación web funcional (27 Abril)
+### Entregable Fase 3: Aplicación web funcional (28 Abril)
 
 - Archivo `chatbot-educativo-base.html` modificado con el nombre, materia y system prompt del equipo
 - La aplicación responde correctamente a preguntas del temario usando el proveedor elegido
