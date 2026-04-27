@@ -91,7 +91,7 @@ El equipo llena el siguiente formulario y lo entrega antes de avanzar a la Fase 
 
 ---
 
-## Fase 2: Ingeniería de prompts (24 de abril)
+## Fase 2: Ingeniería de prompts (27 de abril)
 **Duración: 3 horas**
 
 ### Objetivo
@@ -122,7 +122,7 @@ Los equipos prueban su prompt directamente en el chat del proveedor elegido (Cla
 
 Se requieren al menos 5 pruebas documentadas antes de considerar el prompt como versión 1.0.
 
-### Entregable Fase 2: System prompt documentado (24 de abril)
+### Entregable Fase 2: System prompt documentado (27 de abril)
 
 - Archivo `.txt` o `.md` con el system prompt final (versión 1.0)
 - Tabla de iteraciones con al menos 5 pruebas: pregunta / respuesta / problema / corrección
