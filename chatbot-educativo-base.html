@@ -518,7 +518,7 @@ const PROVIDERS = {
 
   gemini: {
     label: "Gemini (Google)",
-    defaultModel: "gemini-2.5-flash",
+    defaultModel: "gemini-2.5-flash-lite",
     async call(history) {
       const contents = history.map(m => ({
         role: m.role === "user" ? "user" : "model",
