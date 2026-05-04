@@ -195,7 +195,7 @@ Solo es necesario editar el bloque de configuración al inicio del script. Las v
 
 ---
 
-## Fase 4: Pruebas y mejora iterativa (29 Abril)
+## Fase 4: Pruebas y mejora iterativa (5 Mayo)
 **Duración: 2 – 3 horas**
 
 ### Objetivo
@@ -225,7 +225,7 @@ Esta fase enseña que la ingeniería de IA no termina cuando el código funciona
 | 9 | | | | |
 | 10 | | | | |
 
-### Entregable Fase 4: Hoja de registro de pruebas (29 Abril)
+### Entregable Fase 4: Hoja de registro de pruebas (5 Mayo)
 
 - Tabla con al menos 10 pruebas documentadas (incluyendo al menos una de cada tipo)
 - Al menos 3 filas con correcciones aplicadas al system prompt
@@ -243,18 +243,17 @@ Esta fase enseña que la ingeniería de IA no termina cuando el código funciona
 
 ---
 
-## Fase 5: Demo y presentación final (Lunes 4 y Miércoles 6 de Mayo)
+## Fase 5: Demo y video con presentación final (Jueves 7 de Mayo)
 **Duración: 1 – 2 horas**
 
 ### Objetivo
 
-Cada equipo demuestra su chatbot en funcionamiento frente al grupo, comunica las decisiones de diseño que tomaron y reflexiona sobre lo que aprendieron sobre la IA. La capacidad de explicar un sistema técnico a una audiencia no técnica es una habilidad central en cualquier carrera relacionada con tecnología.
+Cada equipo demuestra su chatbot en funcionamiento en un video de máximo 4 minutos, comunica las decisiones de diseño que tomaron y reflexiona sobre lo que aprendieron sobre la IA. La capacidad de explicar un sistema técnico a una audiencia no técnica es una habilidad central en cualquier carrera relacionada con tecnología.
 
 ### Formato de presentación
 
-- Duración: 3 – 4 minutos de demo en vivo + 2 minutos de preguntas del grupo
-- El bot debe funcionar en tiempo real durante la presentación
-- Se permite que alguien del público haga una pregunta real al chatbot durante la demo
+- Duración: 3 – 4 minutos de video
+- El bot debe funcionar en tiempo real durante la realización del video
 
 ### Estructura sugerida
 
@@ -265,9 +264,9 @@ Cada equipo demuestra su chatbot en funcionamiento frente al grupo, comunica las
 | 2 min | Demo en vivo: 2 – 3 conversaciones que ilustren el comportamiento del bot, incluyendo un caso de fallo conocido y cómo lo resolvieron. |
 | 1 min | Reflexión: ¿qué aprendieron sobre cómo funcionan los LLMs que no sabían antes? |
 
-### Entregable Fase 5: Demo y reflexión escrita
+### Entregable Fase 5: Video Demo y reflexión escrita (Jueves 7 de Mayo)
 
-- Demo en vivo funcional frente al grupo (el bot debe responder en tiempo real)
+- Video Demo en funcional (el bot debe responder en tiempo real)
 - Reflexión escrita individual (1 párrafo por integrante): ¿qué cambiarías del sistema si tuvieras más tiempo?
 - Versión final del archivo HTML y del system prompt (versión 2.0 o superior)
 
